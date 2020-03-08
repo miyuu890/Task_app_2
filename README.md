@@ -6,7 +6,7 @@
 
 * AWS Cloud9
 * Ruby
-* Git
+* Git(HTTPからSHHへ変更)
 * Heroku
 
 ```
